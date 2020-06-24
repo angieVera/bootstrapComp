@@ -1,0 +1,26 @@
+body{
+	background-image: url("fondoBoot.jpg");
+
+	background-attachment: fixed;
+}
+
+#carouselExampleControls{
+	width: 350px;
+	height:300px;
+	position: relative;
+	left: 500px;
+}
+.carousel-inner{
+	
+align-content: right;
+}
+
+.toast > div{
+	background-color: mintcream;
+}
+
+.pagination{
+
+	position: relative;
+	left: 500px;
+}
